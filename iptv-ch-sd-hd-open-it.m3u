@@ -1,9 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 ,3D Demo
+#EXTINF:1 ,3D Demo
 rtp://@239.186.68.96:10000
-#EXTINF:-1 ,Alice
+#EXTINF:2 ,Alice
 rtp://@239.186.66.107:10000
-#EXTINF:-1 ,Boing
+#EXTINF:3 ,Boing
 rtp://@239.186.64.74:10000
 #EXTINF:-1 ,Canale 5
 rtp://@239.186.64.46:10000
