@@ -1,0 +1,35 @@
+
+#EXTINF:-1 ,3D Demo
+rtp://@239.186.68.96:10000
+#EXTINF:-1 ,Alice
+rtp://@239.186.66.107:10000
+#EXTINF:-1 ,Boing
+rtp://@239.186.64.74:10000
+#EXTINF:-1 ,Canale 5
+rtp://@239.186.64.46:10000
+#EXTINF:-1 ,Canale 5 HD
+rtp://@239.186.68.163:10000
+#EXTINF:-1 ,Canale IT
+rtp://@239.186.64.160:10000
+#EXTINF:-1 ,cartoonito
+rtp://@239.186.66.176:10000
+#EXTINF:-1 ,Classica italiano
+rtp://@239.186.66.36:10000
+#EXTINF:-1 ,cielo
+rtp://@239.186.64.76:10000
+#EXTINF:-1 ,Class TV Moda
+rtp://@239.186.66.189:10000
+#EXTINF:-1 ,ClassNews MSNBC
+rtp://@239.186.66.177:10000
+#EXTINF:-1 ,DeeJay TV
+rtp://@239.186.64.158:10000
+#EXTINF:-1 ,DMAX Italia
+rtp://@239.186.66.110:10000
+#EXTINF:-1 ,E! I
+rtp://@239.186.66.39:10000
+#EXTINF:-1 ,Euronews I
+rtp://@239.186.64.153:10000
+#EXTINF:-1 ,EUROSPORT I
+rtp://@239.186.66.40:10000
+#EXTINF:-1 ,EUROSPORT2 I
+rtp://@239.186.66.41:10000
